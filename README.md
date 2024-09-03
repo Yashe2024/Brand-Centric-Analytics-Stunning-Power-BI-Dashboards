@@ -7,6 +7,7 @@ Welcome to the Comprehensive Data Analysis and Visualization Dashboards reposito
 🌟 Repository Structure and Project Overview Each project within this repository is contained in its dedicated folder, complete with data sources, analysis scripts, and interactive dashboards created using Power BI. Below, you will find detailed descriptions of each project, outlining their purpose, key features, and insights they offer.
 
 1.Amazon Prime Membership Analysis 
+
 🔍 Overview: This project focuses on analyzing the impact of Amazon Prime on user behavior, streaming habits, and overall e-commerce activities. The Power BI dashboard provides insights into membership growth, content consumption patterns, and the correlation between Prime membership and shopping habits.
 🚀 Key Features:
 
@@ -19,6 +20,7 @@ Purchase & Streaming Correlation: Explore how Prime membership influences purcha
 💡Use Cases: Subscription service optimization, content strategy planning, cross-sell opportunities identification.
 
 2.Nike Brand Performance Analysis 
+
 🔍 Overview: This project examines Nike’s market performance, analyzing sales data, marketing effectiveness, and consumer sentiment. The Power BI dashboard is designed for retail analysts, marketers, and business strategists to understand what drives Nike’s global brand success.
 
 🚀 Key Features:
@@ -31,6 +33,7 @@ Consumer Sentiment Analysis: Leverage social media data to gauge public percepti
 💡 Use Cases: Brand strategy development, market expansion planning, consumer behavior analysis.
 
 3.Amazon App Usage Dashboard 
+
 🔍 Overview: This dashboard provides a comprehensive analysis of Amazon's mobile app performance. It covers user engagement metrics, purchasing behaviors, and app performance indicators. The insights derived here are essential for understanding user retention, optimizing in-app experiences, and driving higher conversion rates.
 
 🚀 Key Features:
@@ -43,6 +46,7 @@ Performance Metrics: Track app performance metrics such as load times, crash rat
 💡Use Cases: Mobile app optimization, user experience enhancement, targeted marketing strategies.
 
 4.AirBnB Market Analysis 
+
 🔍 Overview: This project delves into the dynamics of the Airbnb market across various cities and regions. By analyzing listing data, pricing strategies, and occupancy rates, this Power BI dashboard helps stakeholders understand market trends, identify lucrative opportunities, and make data-driven decisions.
 
 🚀 Key Features:
@@ -55,6 +59,7 @@ Occupancy and Revenue Trends: Uncover patterns in booking rates and revenue gene
 💡Use Cases: Real estate investment analysis, market trend prediction, pricing strategy optimization.
 
 5.IBM Corporate Dashboard 
+
 🔍 Overview: This dashboard provides a thorough analysis of IBM's business performance, covering financial health, market position, and internal metrics. It serves as a valuable tool for stakeholders to assess IBM’s strategies and performance over time.
 
 🚀 Key Features:
@@ -68,6 +73,7 @@ Internal Performance Metrics: Analyze productivity, employee satisfaction, and i
 💡Use Cases: Corporate strategy planning, investment analysis, competitive benchmarking.
 
 6.Olympics Performance Dashboard 
+
 🔍 Overview: This preliminary version of the Olympics dashboard provides insights into the performance of countries and athletes in past Olympic Games. With data spanning multiple Olympic cycles, this Power BI dashboard is a great resource for sports analysts and enthusiasts.
 
 🚀 Key Features:
