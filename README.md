@@ -96,6 +96,9 @@ Python/R: For more advanced data manipulation and analysis (if applicable).
 How to Explore:
 
 🤝 Contributions We are always looking to improve and expand this repository! If you have suggestions, additional data, or enhancements, feel free to fork the repository, make your changes, and submit a pull request. 
+
 Let's collaborate to create a robust resource for data analysis and visualization.
 
-📞 Contact For any questions, suggestions, or collaboration inquiries, please feel free to reach out! You can also connect with us on LinkedIn or follow the repository for updates on new projects and dashboards.
+📞 Contact For any questions, suggestions, or collaboration inquiries, please feel free to reach out!
+
+You can also connect with us on LinkedIn or follow the repository for updates on new projects and dashboards.
